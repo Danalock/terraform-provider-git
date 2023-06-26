@@ -13,7 +13,7 @@ validate-docs: install-tools
 	tfplugindocs validate
 
 build:
-	go build -o terraform-provider-tanka
+	go build -o terraform-provider-git
 
 bump:
 	go get -u ./...

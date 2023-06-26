@@ -1,3 +1,8 @@
+## 0.1.4 (June 26, 2023)
+
+- Update to GO 1.19
+- Build now includes binaries for Darwin ARM64
+
 ## 0.1.3 (July 04, 2020)
 
 BUG FIXES:

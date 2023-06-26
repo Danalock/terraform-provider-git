@@ -5,6 +5,7 @@ example.tf
 terraform.tfplan
 terraform.tfstate
 bin/
+dist/
 modules-dev/
 /pkg/
 website/.vagrant
@@ -32,3 +33,5 @@ website/vendor
 
 # Keep windows files with windows line endings
 *.winfile eol=crlf
+
+terraform-provider-git
