@@ -1,7 +1,8 @@
 # Terraform Provider for Git
 
-Fork of the provider from [Innovation Norway](https://github.com/innovationnorway-archive/terraform-provider-git).
-No new development is planned as of now, but the build has been updated to include the Darwin ARM64 architecture for supporting the M-series Macs.
+This project is a fork of the provider from [Innovation Norway](https://github.com/innovationnorway-archive/terraform-provider-git).
+
+No new development on the provider is planned at this time, but the build has been updated to include the Darwin ARM64 architecture to support the M-series Macs.
 
 ## Requirements
 
